@@ -62,9 +62,9 @@
 <h1 align="right">GitHub Stats</h1>
 
 <p align="center">
-  <a href="https://github.com/KongSengHero?tab=repositories"><img src="https://streak-stats.demolab.com?user=KongSengHero&theme=transparent&border_radius=4" alt="GitHub Streak" height="150px" /></a>
   <a href="https://github.com/KongSengHero?tab=repositories"><img src="https://github-readme-stats.shion.dev/api?username=KongSengHero&theme=transparent&border-radius=4&include_all_commits=true&count_private=true" alt="GitHub Usage" height="110px" /></a>
   <a href="https://github.com/KongSengHero?tab=repositories"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KongSengHero&theme=transparent&border-radius=4&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Usage" height="110px" /></a>
+  <a href="https://github.com/KongSengHero?tab=repositories"><img src="https://streak-stats.demolab.com?user=KongSengHero&theme=transparent&border_radius=4" alt="GitHub Streak" height="150px" /></a>
 </p>
 
 
