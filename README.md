@@ -6,7 +6,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Full Stack Software Developer** driven by collaborative success. I offer *end-to-end* technical solutions in exchange for *mutually beneficial opportunities and partnerships*. When our goals are align, no obstacle can block us, and shall any challenges arise, lets work it out, yeah?
 
-<a href=""><img src="https://img.shields.io/badge/My%20Works-07929C?style=for-the-badge&logo=cloudflare-workers&logoColor=white" alt="My Works" /></a>
+<a href="https://the-spectre.vercel.app"><img src="https://img.shields.io/badge/My%20Works-07929C?style=for-the-badge&logo=cloudflare-workers&logoColor=white" alt="Latest Works" /></a>
 <a href=""><img src="https://img.shields.io/badge/My%20Contact-8FFA93?style=for-the-badge&logo=minutemailer&logoColor=black" alt="My Contacts" /></a>
 <br><br>
 
