@@ -66,8 +66,8 @@
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/0-profile-details.svg" alt="Profile Details" height="150px" />
-  <img src="./profile-summary-card-output/1-repos-per-language.svg" alt="Repos Per Language" height="150px" />
+  <img src="./profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" height="150px" />
+  <img src="./profile-summary-card-output/default/1-repos-per-language.svg" alt="Repos Per Language" height="150px" />
 </p>
 
 <h1 align="left">All Contacts</h1>
