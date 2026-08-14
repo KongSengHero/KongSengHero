@@ -64,18 +64,8 @@
   <a href="https://github.com/KongSengHero?tab=repositories"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KongSengHero&theme=transparent&border-radius=4&include_all_commits=true&count_private=true&layout=compact&v=2" alt="WHERE IS MY USAGE!" height="110px" /></a>
   <a href="https://github.com/KongSengHero?tab=repositories"><img src="https://streak-stats.demolab.com?user=KongSengHero&theme=transparent&border_radius=4&v=2" alt="WHERE IS MY STREAK!" height="150px" /></a>
 </p>
-<p align="center">
-  <a href="https://github.com/KongSengHero?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=KongSengHero&theme=transparent&border_radius=4&include_all_commits=true&count_private=true&cache_seconds=60&t=2" alt="STATUS" height="110px" />
-  </a>
-  <a href="https://github.com/KongSengHero?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KongSengHero&theme=transparent&border_radius=4&include_all_commits=true&count_private=true&layout=compact&cache_seconds=60&t=2" alt="USAGE" height="110px" />
-  </a>
-  <a href="https://github.com/KongSengHero?tab=repositories">
-    <img src="https://streak-stats.demolab.com?user=KongSengHero&theme=transparent&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&t=2" alt="STREAK" height="150px" />
-  </a>
-</p>
-<img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+
+<img src="./github-metrics.svg" alt="GitHub Metrics" width="70%" height="90%" />
 
 <h1 align="left">All Contacts</h1>
 <img align="right" width="140" src="https://media1.tenor.com/m/lUax-CJ3QVoAAAAC/anime-aestethic.gif" />
