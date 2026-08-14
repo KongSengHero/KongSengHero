@@ -65,10 +65,7 @@
   <a href="https://github.com/KongSengHero?tab=repositories"><img src="https://streak-stats.demolab.com?user=KongSengHero&theme=transparent&border_radius=4&v=2" alt="WHERE IS MY STREAK!" height="150px" /></a>
 </p>
 
-<p align="center">
-  <img src="./profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" height="150px" />
-  <img src="./profile-summary-card-output/default/1-repos-per-language.svg" alt="Repos Per Language" height="150px" />
-</p>
+<img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
 
 <h1 align="left">All Contacts</h1>
 <img align="right" width="140" src="https://media1.tenor.com/m/lUax-CJ3QVoAAAAC/anime-aestethic.gif" />
