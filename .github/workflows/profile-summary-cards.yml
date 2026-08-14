@@ -1,0 +1,27 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs automatically every night at midnight UTC
+  workflow_dispatch: # Allows you to trigger it manually anytime!
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Grants the workflow permission to save cards into your repo
+    steps:
+      - uses: actions/checkout@v3
+      - uses: vn7n24fzkq/github-profile-summary-cards@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Update profile summary cards" || exit 0
+          git push
