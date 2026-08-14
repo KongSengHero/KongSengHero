@@ -62,7 +62,7 @@
 <p align="center">
   <a href="https://github.com/KongSengHero?tab=repositories"><img src="https://github-readme-stats.shion.dev/api?username=KongSengHero&theme=transparent&border-radius=4&include_all_commits=true&count_private=true&v=3" alt="WHERE IS MY STATUS!" height="110px" /></a>
   <a href="https://github.com/KongSengHero?tab=repositories"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KongSengHero&theme=transparent&border-radius=4&include_all_commits=true&count_private=true&layout=compact&v=3" alt="WHERE IS MY USAGE!" height="110px" /></a>
-  <a href="https://github.com/KongSengHero?tab=repositories"><img src="https://streak-stats.demolab.com?user=KongSengHero&theme=transparent&border_radius=4&v=3" alt="WHERE IS MY STREAK!" height="150px" /></a>
+  <a href="https://github.com/KongSengHero?tab=repositories"><img src="https://streak-stats.demolab.com?user=KongSengHero&theme=transparent&border_radius=4&v=4" alt="WHERE IS MY STREAK!" height="150px" /></a>
 </p>
 
 <!-- <p align="center">
