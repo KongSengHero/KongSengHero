@@ -60,14 +60,14 @@
 <h1 align="right">GitHub Stats</h1>
 
 <p align="center">
-  <a href="https://github.com/KongSengHero?tab=repositories"><img src="https://github-readme-stats.shion.dev/api?username=KongSengHero&theme=transparent&border-radius=4&include_all_commits=true&count_private=true&v=2" alt="WHERE IS MY STATUS!" height="110px" /></a>
-  <a href="https://github.com/KongSengHero?tab=repositories"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KongSengHero&theme=transparent&border-radius=4&include_all_commits=true&count_private=true&layout=compact&v=2" alt="WHERE IS MY USAGE!" height="110px" /></a>
-  <a href="https://github.com/KongSengHero?tab=repositories"><img src="https://streak-stats.demolab.com?user=KongSengHero&theme=transparent&border_radius=4&v=2" alt="WHERE IS MY STREAK!" height="150px" /></a>
+  <a href="https://github.com/KongSengHero?tab=repositories"><img src="https://github-readme-stats.shion.dev/api?username=KongSengHero&theme=transparent&border-radius=4&include_all_commits=true&count_private=true&v=3" alt="WHERE IS MY STATUS!" height="110px" /></a>
+  <a href="https://github.com/KongSengHero?tab=repositories"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KongSengHero&theme=transparent&border-radius=4&include_all_commits=true&count_private=true&layout=compact&v=3" alt="WHERE IS MY USAGE!" height="110px" /></a>
+  <a href="https://github.com/KongSengHero?tab=repositories"><img src="https://streak-stats.demolab.com?user=KongSengHero&theme=transparent&border_radius=4&v=3" alt="WHERE IS MY STREAK!" height="150px" /></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="./github-metrics.svg" alt="GitHub Metrics" width="70%" height="90%" />
-</p>
+</p> -->
 
 <h1 align="left">All Contacts</h1>
 <img align="right" width="140" src="https://media1.tenor.com/m/lUax-CJ3QVoAAAAC/anime-aestethic.gif" />
@@ -76,29 +76,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=KongSengHero&base=224&label=PROFILE+VIEWS&style=for-the-badge&color=4CAF50" alt="visitors" /></p>
 
-<p align="center">
-  <a href="https://github.com/KongSengHero">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=KongSengHero&theme=transparent&border_radius=4&include_all_commits=true&count_private=true" 
-      alt="GitHub Stats" 
-      height="150px" 
-    />
-  </a>
-  <a href="https://github.com/KongSengHero">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KongSengHero&theme=transparent&border_radius=4&include_all_commits=true&count_private=true&layout=compact" 
-      alt="Top Languages" 
-      height="150px" 
-    />
-  </a>
-  <a href="https://github.com/KongSengHero">
-    <img 
-      src="https://streak-stats.demolab.com?user=KongSengHero&theme=transparent&border_radius=4" 
-      alt="GitHub Streak" 
-      height="150px" 
-    />
-  </a>
-</p>
+
 
 
 
