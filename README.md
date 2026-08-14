@@ -66,10 +66,10 @@
 </p>
 <p align="center">
   <a href="https://github.com/KongSengHero?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=KongSengHero&theme=transparent&border_radius=4&include_all_commits=true&count_private=true&cache_seconds=1800&t=2" alt="STATUS" height="110px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=KongSengHero&theme=transparent&border_radius=4&include_all_commits=true&count_private=true&cache_seconds=60&t=2" alt="STATUS" height="110px" />
   </a>
   <a href="https://github.com/KongSengHero?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KongSengHero&theme=transparent&border_radius=4&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&t=2" alt="USAGE" height="110px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KongSengHero&theme=transparent&border_radius=4&include_all_commits=true&count_private=true&layout=compact&cache_seconds=60&t=2" alt="USAGE" height="110px" />
   </a>
   <a href="https://github.com/KongSengHero?tab=repositories">
     <img src="https://streak-stats.demolab.com?user=KongSengHero&theme=transparent&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&t=2" alt="STREAK" height="150px" />
