@@ -76,7 +76,29 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=KongSengHero&base=224&label=PROFILE+VIEWS&style=for-the-badge&color=4CAF50" alt="visitors" /></p>
 
-
+<p align="center">
+  <a href="https://github.com/KongSengHero">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=transparent&border_radius=4&include_all_commits=true&count_private=true" 
+      alt="GitHub Stats" 
+      height="150px" 
+    />
+  </a>
+  <a href="https://github.com/KongSengHero">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=transparent&border_radius=4&include_all_commits=true&count_private=true&layout=compact" 
+      alt="Top Languages" 
+      height="150px" 
+    />
+  </a>
+  <a href="https://github.com/KongSengHero">
+    <img 
+      src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&border_radius=4" 
+      alt="GitHub Streak" 
+      height="150px" 
+    />
+  </a>
+</p>
 
 
 
